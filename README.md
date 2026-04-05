@@ -26,5 +26,5 @@ Em comparação com a versão original em código (Dart/Flutter):
 
 Caso tenha dúvidas sobre este documento ou sobre o tratamento de dados no Vendix, entre em contato:
 
-**Responsável:** [Antonio]  
+**Responsável:** Antonio  
 **E-mail:** [avps2@aluno.ifal.edu.br](mailto:avps2@aluno.ifal.edu.br)
