@@ -4,19 +4,6 @@ Este repositório contém a página de **Política de Privacidade** do aplicativ
 
 A página foi desenvolvida em HTML5 e CSS3, sendo uma versão otimizada e responsiva do componente original criado em Flutter.
 
-## 🚀 Finalidade
-
-Para publicar aplicativos na Google Play Store ou Apple App Store, é obrigatório fornecer um link externo para a Política de Privacidade. Este projeto resolve essa necessidade ao transformar o conteúdo interno do app em uma página web estática de fácil leitura.
-
-## ✨ Melhorias Implementadas
-
-Em comparação com a versão original em código (Dart/Flutter):
-- **Responsividade:** Layout adaptável para smartphones, tablets e desktops.
-- **Semântica HTML:** Uso de tags como `<header>`, `<main>` e `<h2>` para melhor acessibilidade.
-- **Estilização Moderna:** Design limpo com tipografia clara e espaçamento adequado para leitura de documentos legais.
-- **Ortografia:** Revisão e correção de acentuação e pontuação do texto original.
-- **Link Direto:** O e-mail de contato foi convertido em um link `mailto:`, permitindo contato imediato com um clique.
-
 ## 🛠️ Tecnologias
 
 - **HTML5**
