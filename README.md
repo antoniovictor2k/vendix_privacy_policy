@@ -22,17 +22,9 @@ Em comparação com a versão original em código (Dart/Flutter):
 - **HTML5**
 - **CSS3** (Variáveis CSS e Media Queries)
 
-## 📦 Como usar
-
-1.  Faça o download do arquivo `index.html` (ou o nome que você atribuiu).
-2.  Para visualizar localmente, basta abrir o arquivo em qualquer navegador.
-3.  Para hospedar, você pode utilizar serviços gratuitos como:
-    - **GitHub Pages:** Ideal para hospedar este arquivo diretamente do repositório.
-    - **Vercel / Netlify:** Outras opções rápidas para sites estáticos.
-
 ## 📧 Contato
 
 Caso tenha dúvidas sobre este documento ou sobre o tratamento de dados no Vendix, entre em contato:
 
-**Responsável:** [Seu Nome ou Nome da Equipe]  
+**Responsável:** [Antonio]  
 **E-mail:** [avps2@aluno.ifal.edu.br](mailto:avps2@aluno.ifal.edu.br)
